@@ -17,4 +17,6 @@
 or as a root
 ```sudo python blinking_led.py```
 
-If we decide to stop LED will be disable.
+![start image](led.jpg)
+
+### If we decide to stop LED will be disable.
