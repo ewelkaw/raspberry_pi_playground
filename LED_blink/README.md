@@ -19,4 +19,4 @@ or as a root
 
 ![start image](led.jpg)
 
-### If we decide to stop LED will be disable.
+### If we decide to stop LED will be turned off.
